@@ -1,3 +1,4 @@
+![Foto profissional de Francis](foto%20para%20cibersegurança.png)
 # 🔐 Portfólio de Defesa Cibernética
 
 Olá! Seja bem-vindo(a) ao meu portfólio profissional.

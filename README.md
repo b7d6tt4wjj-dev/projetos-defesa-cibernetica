@@ -1,5 +1,6 @@
-![Foto profissional de Francis](foto%20para%20cibersegurança.png)
-# 🔐 Portfólio de Defesa Cibernética
+ <img src="./foto%20para%20ciberseguran%C3%A7a.png" width="280" alt="Foto profissional de Francis">
+ 
+# 🔐 **MEU PORTFÓLIO DE DEFESA CIBERNÉTICA**
 
 Olá! Seja bem-vindo(a) ao meu portfólio profissional.
 

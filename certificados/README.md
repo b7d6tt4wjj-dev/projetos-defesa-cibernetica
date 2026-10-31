@@ -10,3 +10,15 @@ Cursos concluídos
 * Potencializando Seus Estudos e Carreira com IA: 2 horas.
 
 Carga horária total: 6 horas.
+
+
+## Estudos Práticos em Linux
+
+Materiais de estudo e atividades práticas sobre o sistema operacional Linux.
+
+### Conteúdos adicionados
+
+* [Instalando o Linux](instalando-o-linux.pdf)
+* [Acesso Remoto a Máquinas Linux](acesso-remoto-maquinas-linux.pdf)
+* [Manipulando Arquivos no Linux](manipulando-arquivos-no-linux.pdf)
+* [Introdução ao Sistema Operacional Linux](introducao-ao-sistema-operacional-linux.pdf)
